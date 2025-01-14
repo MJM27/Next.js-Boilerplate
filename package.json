@@ -31,7 +31,7 @@
     "@chakra-ui/react": "2.10.4",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
-    "framer-motion": "10.18.0",
+    "framer-motion": "11.18.0",
     "next": "14.2.20",
     "react": "18.2.0",
     "react-dom": "18.2.0",
